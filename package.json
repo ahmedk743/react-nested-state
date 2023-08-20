@@ -21,7 +21,7 @@
     "component",
     "hook"
   ],
-  "author": "Ahmed Khan <a.manzoor743@gmail.com>",
+  "author": "Ahmed Khan <a.manzoor743@gmail.com> ",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ahmedk743/react-nested-state/issues"

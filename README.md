@@ -26,7 +26,7 @@ const initialState = {
    }
  },
 
- ....
+ ...
 
  const [state, setters, reset] = useNestedState(initialState);
  setters.name.set("Jane");

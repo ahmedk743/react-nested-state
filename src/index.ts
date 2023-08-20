@@ -33,7 +33,7 @@ type ReturnTypes<T> = [
  *    c: 10
  *   }
  * },
- *
+ * ...
  * const [state, setters, reset] = useNestedState(initialState);
  * setters.name.set("Jane");
  * setters.age.set(21);

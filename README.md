@@ -8,15 +8,13 @@ You can install the `react-nested-state` library using npm:
 
 ```bash
 npm install react-nested-state
+```
 
 ## Example
 
 
-```
-
+``` tsx
 const [state, setters, reset] = useNestedState(initialState);
-
-```
 const initialState = {
   name: "John",
   age: 20,

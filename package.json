@@ -1,6 +1,6 @@
 {
   "name": "react-nested-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The `react-nested-state` library provides a convenient way for React developers to manage and update nested states within functional components. It offers a hook called `useNestedState` that simplifies the process of setting nested states and provides easy-to-use setters for various levels of nesting. This can be particularly useful when dealing with complex state structures.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
